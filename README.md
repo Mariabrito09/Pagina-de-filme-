@@ -4,10 +4,10 @@
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
-  ![SENAI](https://img.shields.io/badge/SENAI-Jacob_Lafer-red?style=for-the-badge)
+  ![SENAI](https://img.shields.io/badge/SENAI-A._Jacob_Lafer-red?style=for-the-badge)
 
   <p align="center">
-    Projeto prático desenvolvido para a disciplina de Desenvolvimento Web do curso técnico.
+    Projeto prático desenvolvido para a disciplina de Desenvolvimento de Sistemas do curso técnico.
   </p>
 
 </div>
