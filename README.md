@@ -48,7 +48,7 @@ Este repositório contém o código-fonte de uma página web estática construí
 
 - **Estudante:** Maria Eduarda Vilela de Brito
 - **Turma / Curso:** `1ID-DS` (Técnico em Desenvolvimento de Sistemas)
-- **Instituição:** SENAI Jacob Lafer
+- **Instituição:** SENAI A. Jacob Lafer
 
 ---
 
