@@ -84,6 +84,6 @@ A página web desenvolvida apresenta uma interface limpa e focada em dados sobre
 
 <div align="center">
 
-*Desenvolvido por **Maria Eduarda Vilela de Brito** • SENAI Jacob Lafer*
+*Desenvolvido por **Maria Eduarda Vilela de Brito** • SENAI A. Jacob Lafer*
 
 </div>
